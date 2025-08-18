@@ -1,1 +1,3 @@
 not ok.txt
+to
+ok
